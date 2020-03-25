@@ -151,6 +151,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.qc.sub.rdump.max=3 \
     ro.telephony.call_ring.multiple=false \
     ro.telephony.default_network=10,10 \
+    ro.telephony.use_old_mnc_mcc_format=true \
     ro.vendor.telephony.default_network=10,10 \
     ro.vendor.use_data_netmgrd=true \
     ro.telephony.iwlan_operation_mode=legacy \
